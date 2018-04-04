@@ -11,3 +11,5 @@ ez az 1. git verzió
 ez a 2. verzió módosítás
 hello world1 és
 hello world2 is
+egyeske újra beleír
+
