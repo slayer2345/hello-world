@@ -1,1 +1,1 @@
-az egész egy nagy
+az egï¿½sz egy nagy izÃ©
